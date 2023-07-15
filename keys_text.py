@@ -1,9 +1,9 @@
-access_token = str("11111111111111111111")
+access_token = str("YOUR_ACCESS_TOKEN")
 
-access_token_secret = str("111111111111111111")
+access_token_secret = str("YOUR_ACCESS_TOKEN_SECRET")
 
-bearer_token = r"111111111111111111111"
+bearer_token = r"YOUR_BEARER_TOKEN"
 
-api_key = str("11111111111111")
+api_key = str("YOUR_API_KEY")
 
-api_key_secret = str("11111111111111111111")
+api_key_secret = str("YOUR_API_KEY_SECRET")
